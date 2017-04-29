@@ -1,0 +1,12 @@
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-LIB\lib_mem.c
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-LIB\lib_mem.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-CPU\cpu_def.h
+.\targets\stm32f429_discovery\lib_mem.o: .\User\cpu_cfg.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-CPU\cpu_core.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-LIB\lib_def.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-LIB\lib_mem.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-LIB\lib_str.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-LIB\lib_ascii.h
+.\targets\stm32f429_discovery\lib_mem.o: .\User\lib_cfg.h
+.\targets\stm32f429_discovery\lib_mem.o: ..\Micrium_uCOS-III\uC-LIB\lib_math.h
